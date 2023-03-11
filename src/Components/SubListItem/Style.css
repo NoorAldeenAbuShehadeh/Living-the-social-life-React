@@ -1,0 +1,11 @@
+li a {
+    padding-left: 16px;
+    color: #717171;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+li a:hover {
+    color: #1792D2;
+}

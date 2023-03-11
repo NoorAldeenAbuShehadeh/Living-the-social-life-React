@@ -1,0 +1,12 @@
+footer {
+    margin: 0;
+    margin-top: 2em;
+    background: #143774;
+    color: white;
+    text-align: center;
+    padding: 1.2em 0;
+}
+
+footer strong {
+    color: white;
+}

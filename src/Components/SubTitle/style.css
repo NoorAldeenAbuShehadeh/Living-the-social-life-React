@@ -1,0 +1,9 @@
+.sub-address {
+    padding-top: 0px;
+    margin-top: 0px;
+    font: normal normal bold 12px/13px Ubuntu;
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: #1792D2;
+    text-transform: uppercase;
+}

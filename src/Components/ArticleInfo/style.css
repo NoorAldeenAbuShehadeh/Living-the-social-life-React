@@ -1,0 +1,11 @@
+.article-body a{
+    color: #1792D2;
+}
+
+.article-body a:hover{
+    color: #143774;
+}
+
+.article-body{
+    max-width: 700px;
+}

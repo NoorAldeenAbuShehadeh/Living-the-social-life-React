@@ -1,0 +1,21 @@
+.article-recent {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2em;
+}
+
+.article-recent-main {
+    order: 2;
+    margin-left: 20px;
+}
+
+.article-recent-secondary {
+    order: 1;
+}
+
+.article-recent .article-image{
+    max-width: 300px;
+    max-height: 250px;
+    min-width: 200px;
+    min-height: 200px;
+}
